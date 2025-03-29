@@ -1,4 +1,4 @@
-# Logs
+# Logss
 logs
 *.log
 npm-debug.log*
@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+./package-lock.json
+node_modules/
